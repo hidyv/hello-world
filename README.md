@@ -1,2 +1,3 @@
 # hello-world
-hi, I am new here
+hi, I am newbie here, trying out something new.
+
